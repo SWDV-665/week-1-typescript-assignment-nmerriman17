@@ -11,8 +11,7 @@ How many hours do you estimate you used completing this assignment?
 14 hrs
 
 What was easiest for you when completing this assignment?
-creating the list for the grocery list
+The easiest part about the assignment was creating the items in the list that needed to be displayed.
 
 What was the most difficult challenge you experienced when completing this assignment?
-getting the output to work properly
- 
+The most difficult aspect of this assignment was trying to combine the initial ts code and the html code into one file and having the terminal code work properly and not error out. I found myself having to look up Youtube videos to clear up error messages.  
