@@ -5,3 +5,14 @@ I've uploaded my .ts file,the terminal needs the following information:
 tsc grocery.ts && node grocery.js > groceries.html
 
 Once ran, the terminal code then outputs a .js file and a .html file.
+
+
+How many hours do you estimate you used completing this assignment?
+14 hrs
+
+What was easiest for you when completing this assignment?
+creating the list for the grocery list
+
+What was the most difficult challenge you experienced when completing this assignment?
+getting the output to work properly
+ 
